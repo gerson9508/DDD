@@ -22,3 +22,15 @@ C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4
 C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Dommain\obj\Debug\net6.0\refint\_360.IdentityServer.Domain.dll
 C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.pdb
 C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Dommain\obj\Debug\net6.0\ref\_360.IdentityServer.Domain.dll
+C:\GitGerson\360.IdentityServer4.Dommain\bin\Debug\net6.0\_360.IdentityServer.Domain.deps.json
+C:\GitGerson\360.IdentityServer4.Dommain\bin\Debug\net6.0\_360.IdentityServer.Domain.dll
+C:\GitGerson\360.IdentityServer4.Dommain\bin\Debug\net6.0\_360.IdentityServer.Domain.pdb
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.csproj.AssemblyReference.cache
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.AssemblyInfoInputs.cache
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.AssemblyInfo.cs
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.csproj.CoreCompileInputs.cache
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.dll
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\refint\_360.IdentityServer.Domain.dll
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\_360.IdentityServer.Domain.pdb
+C:\GitGerson\360.IdentityServer4.Dommain\obj\Debug\net6.0\ref\_360.IdentityServer.Domain.dll

@@ -8,7 +8,7 @@
    using Microsoft.AspNetCore.Mvc;
    using System;
 
-   // [Authorize]
+   [Authorize]
    [Route("api/v1/query")]
    public class QueryController : BaseController
    {
@@ -21,33 +21,16 @@
       #endregion
 
       #region End Points
-      [HttpGet("QueryGetSICY")]
-      public async Task<IActionResult> GetSICY()
-      {
-         SZGResponse response = new();
-         try { response = await _query.GetSICY(); }
-         catch (Exception ex) { response.Response = ex.Message; }
-         return Result(response);
-      }
-
       //[Authorize(Roles = "admin")]
-      [HttpGet("QueryGetImage")]
-      public async Task<IActionResult> GetImage([FromQuery] ImageRequest request)
+      [HttpGet("QueryGet")]
+      public async Task<IActionResult> Get([FromQuery] Request request)
       {
-         SZGResponse response = new();
-         try { response = await _query.GetImage(request); }
+         _360Response response = new();
+         try { response = await _query.Get(request); }
          catch (Exception ex) { response.Response = ex.Message; }
          return Result(response);
       }
 
-      [HttpGet("GetImageTIFF")]
-      public async Task<IActionResult> GetImageTIFF([FromQuery] ImageTIFFRequest request)
-      {
-         SZGResponse response = new();
-         try { response = await _query.GetImageTIFF(request); }
-         catch (Exception ex) { response.Response = ex.Message; }
-         return Result(response);
-      }
       #endregion
    }
 }

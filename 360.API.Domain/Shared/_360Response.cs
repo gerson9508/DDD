@@ -1,6 +1,6 @@
 ﻿namespace _360.API.Domain.Shared
 {
-   public class SZGResponse
+   public class _360Response
    {
       public string Response { get; set; } = "Ocurrió un error inesperado.";
       public int Status { get; set; } = 500;

@@ -12,7 +12,7 @@ namespace _360.API.Domain.Services.Cache
       /// <typeparam name="T"></typeparam>
       /// <param name="key"></param>
       /// <returns></returns>
-      SZGResponse? GetData(string key);
+      _360Response? GetData(string key);
 
 
       /// <summary> 
@@ -23,7 +23,7 @@ namespace _360.API.Domain.Services.Cache
       /// <param name="value"></param>
       /// <param name="expirationTime"></param>
       /// <returns></returns>
-      bool SetData(string key, SZGResponse value, DateTimeOffset expirationTime);
+      bool SetData(string key, _360Response value, DateTimeOffset expirationTime);
 
       /// <summary>
       /// Remove Data 

@@ -23,42 +23,14 @@
       #endregion
 
       #region Methods
-      public async Task<SZGResponse> GetImage(object request)
+      public async Task<_360Response> Get(object request)
       {
-         var key = $"Image{Newtonsoft.Json.JsonConvert.SerializeObject(request)}";
+         var key = $"Get{Newtonsoft.Json.JsonConvert.SerializeObject(request)}";
          var response = _cache.GetData(key);
 
          if (response == null)
          {
-            response = await _repository.GetMapperData<SZGResponse>(SpName.GetImage, request);
-            _cache.SetData(key, response, _timeHoursCache);
-         }
-
-         return response;
-      }
-
-      public async Task<SZGResponse> GetImageTIFF(object request)
-      {
-         var key = $"ImageTIFF{Newtonsoft.Json.JsonConvert.SerializeObject(request)}";
-         var response = _cache.GetData(key);
-
-         if (response == null)
-         {
-            response = await _repository.GetMapperData<SZGResponse>(SpName.GetImageTIFF, request);
-            _cache.SetData(key, response, _timeHoursCache);
-         }
-
-         return response;
-      }
-
-      public async Task<SZGResponse> GetSICY()
-      {
-         var key = "SICY3";
-         var response = _cache.GetData(key);
-
-         if (response == null)
-         {
-            response = await _repository.GetMapperData<SZGResponse>(SpName.QueryGetSICY, new { });
+            response = await _repository.GetMapperData<_360Response>(SpName.Get, request);
             _cache.SetData(key, response, _timeHoursCache);
          }
 

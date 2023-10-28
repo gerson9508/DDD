@@ -20,15 +20,15 @@ namespace _360.API.Infraestructure.Services.Cache
 #pragma warning restore CS8604 // Posible argumento de referencia nulo
       }
 
-      public SZGResponse? GetData(string key)
+      public _360Response? GetData(string key)
       {
-         SZGResponse? response = null;
+         _360Response? response = null;
          var value = _db.StringGet(key);
 
          if (!string.IsNullOrEmpty(value))
          {
 #pragma warning disable CS8604 // Posible argumento de referencia nulo
-            response = Newtonsoft.Json.JsonConvert.DeserializeObject<SZGResponse?>(value);
+            response = Newtonsoft.Json.JsonConvert.DeserializeObject<_360Response?>(value);
 #pragma warning restore CS8604 // Posible argumento de referencia nulo
 
 #pragma warning disable CS8602 // Desreferencia de una referencia posiblemente NULL.
@@ -45,10 +45,10 @@ namespace _360.API.Infraestructure.Services.Cache
          return response;
       }
 
-      public bool SetData(string key, SZGResponse value, DateTimeOffset expirationTime)
+      public bool SetData(string key, _360Response value, DateTimeOffset expirationTime)
       {
          TimeSpan expiryTime = expirationTime.DateTime.Subtract(DateTime.Now);
-         SZGResponse response = value;
+         _360Response response = value;
 
          if (response.Data != null)
 #pragma warning disable CS8601 // Posible asignación de referencia nula

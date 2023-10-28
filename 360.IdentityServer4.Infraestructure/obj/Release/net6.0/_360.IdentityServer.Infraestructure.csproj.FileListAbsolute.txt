@@ -1,0 +1,17 @@
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Infraestructure.deps.json
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Infraestructure.runtimeconfig.json
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Infraestructure.pdb
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Domain.dll
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\bin\Release\net6.0\_360.IdentityServer.Domain.pdb
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.AssemblyInfo.cs
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.csproj.CopyComplete
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\refint\_360.IdentityServer.Infraestructure.dll
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.pdb
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\_360.IdentityServer.Infraestructure.genruntimeconfig.cache
+C:\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.IdentityServer4.Infraestructure\obj\Release\net6.0\ref\_360.IdentityServer.Infraestructure.dll

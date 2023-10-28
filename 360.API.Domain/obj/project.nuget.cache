@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3S6Uai3u/3uUKhvuiSAokVGnBe3E0AOdO3u4MBUPJxuZSmNFWsQCfvub+P9+QZoDQkIyS6DCYEqytp19ukB1Q==",
+  "success": true,
+  "projectFilePath": "C:\\GitGerson\\360.API.Domain\\_360.API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerso\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\gerso\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\gerso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gerso\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\gerso\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

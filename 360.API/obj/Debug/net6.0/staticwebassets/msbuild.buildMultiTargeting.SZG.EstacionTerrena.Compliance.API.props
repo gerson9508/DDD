@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SZG.EstacionTerrena.Compliance.API.props" />
+</Project>

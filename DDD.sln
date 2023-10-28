@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "_360.IdentityServer.Database.Scripts", "..\Users\gerso\Documents\ProjectGerson\MyFolderApps\360(DDD)\360.DataBase\_360.Database.Scripts\_360.IdentityServer.Database.Scripts.sqlproj", "{A63917E7-59A9-4470-92B8-BCE9ED13F83E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,12 @@ Global
 		{5031E239-29CB-4020-9A3D-EBCCE9710543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5031E239-29CB-4020-9A3D-EBCCE9710543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5031E239-29CB-4020-9A3D-EBCCE9710543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,7 @@ Global
 		{F97D4B6B-0C32-43BF-BBB1-4D50A335720F} = {99207678-0B5D-4A74-80B3-45D2C917BEBB}
 		{138D4366-5D99-4B9E-AD08-901492A29606} = {99207678-0B5D-4A74-80B3-45D2C917BEBB}
 		{5031E239-29CB-4020-9A3D-EBCCE9710543} = {99207678-0B5D-4A74-80B3-45D2C917BEBB}
+		{A63917E7-59A9-4470-92B8-BCE9ED13F83E} = {99207678-0B5D-4A74-80B3-45D2C917BEBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3404C09C-A14A-4F4C-9D1C-CF8079EC5490}
